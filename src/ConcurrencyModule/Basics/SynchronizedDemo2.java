@@ -1,4 +1,4 @@
-package ConcurrencyModule;
+package ConcurrencyModule.Basics;
 
 /*
 In SynchronizedDemo I told about a problem of having a single lock, that two independent

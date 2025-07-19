@@ -1,4 +1,4 @@
-package ConcurrencyModule;
+package ConcurrencyModule.Basics;
 
 import java.util.ArrayList;
 import java.util.List;

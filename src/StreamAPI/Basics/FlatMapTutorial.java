@@ -11,7 +11,7 @@ public class FlatMapTutorial {
         /*
         * flatMap() performs flattening of the element type you give, here in our stream
         * it is stream of List<String>, toList() cannot make two-dimensional List
-        * that is why we are converting it to one-dimensional list of strings
+        * that is why we are converting it to one-dimensional bufferList of strings
         * */
         return students.stream()
                 .map(Student::getActivities)

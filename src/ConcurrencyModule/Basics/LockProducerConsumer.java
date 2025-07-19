@@ -1,4 +1,4 @@
-package ConcurrencyModule;
+package ConcurrencyModule.Basics;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

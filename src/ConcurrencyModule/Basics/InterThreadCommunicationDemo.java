@@ -1,4 +1,4 @@
-package ConcurrencyModule;
+package ConcurrencyModule.Basics;
 /*
 Some Vocabulary
 Acquiring the lock: Thread gets exclusive access (meaning it is running).
