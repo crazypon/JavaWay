@@ -1,4 +1,4 @@
-package CollectionsFramework;
+package CollectionsFramework.Basics;
 
 public class StudentMarks implements Comparable<StudentMarks>{
     private Integer math;
